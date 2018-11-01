@@ -1,0 +1,23 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<!--
+    Document   : web.xml
+    Created on : November 1, 2018, 2:58 PM
+    Author     : PHANI
+    Description:
+        Purpose of the document follows.
+-->
+
+
+
+<web-app>
+  <display-name>EncryptAndDecryptParamsApp</display-name>
+
+  <welcome-file-list>
+      <welcome-file>EncryptData.jsp</welcome-file>
+  </welcome-file-list>
+
+</web-app>
+
