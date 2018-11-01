@@ -14,8 +14,8 @@
         <title>EncryptAndDecryptParamsApp</title>
     </head>
     <body>
-        <h1>Cipher Encrypt Data Using DES</h1>
-        Sending Parameter User Id :8596741 <a href='DecryptData.jsp?userId=<%=EncryptionUtility.encryptData("Secret12","85967")%>'>:8596741</a>
+        <h1>Encryption Data Using DES</h1>
+        Sending Parameter User Id : <a href='DecryptData.jsp?userId=<%=EncryptionUtility.encryptData("Secret12","85967")%>'>:8596741</a>
     </body>
 </html>
 
